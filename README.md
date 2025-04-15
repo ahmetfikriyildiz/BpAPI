@@ -13,7 +13,7 @@ This is a RESTful Blog API built with **ASP.NET Core Web API**. It allows users 
 
 ### 🔐 Authenticated Users
 - Register and login (JWT-based)
-- Create, update, and delete own posts
+- Create, update, and delete own posts.
 - Comment on posts
 
 ### 🛠 Admin
