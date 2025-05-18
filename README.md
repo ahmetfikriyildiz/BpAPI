@@ -6,7 +6,6 @@ This is a RESTful Blog API built with **ASP.NET Core Web API**. It allows users 
 
 ## 🚀 Features
 
-### ✅ Public
 - View all blog posts
 - View single post details
 - View posts by category
